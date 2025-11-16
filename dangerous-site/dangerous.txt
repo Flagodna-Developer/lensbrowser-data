@@ -1,0 +1,62 @@
+# High-risk dangerous sites - Malware, Phishing, Scams
+# Last updated: 2024-01-15
+# Sources: Various threat intelligence feeds
+
+# Fake software portals (malware distribution)
+7zip.es
+audacity.de
+keepass.com
+filezilla.net
+vlc.de
+blender3d.es
+virtualbox.es
+bittorrent.es
+utorrent.it
+adblock.fr
+openoffice.de
+notepad2.com
+truecrypt.fr
+handbrake.es
+inkscape.fr
+gimp.es
+
+# Known malware distributors
+01net.com
+download.cnet.com
+bluestacksdownloads.com
+garagebandforpc.org
+senuti.org
+flexytalk.net
+havenworks.com
+
+# Phishing and credential stealers
+login-facebook-security.com
+verify-paypal-account.net
+apple-id-confirmation.com
+microsoft-account-security.org
+bankofamerica-secure-login.com
+wellsfargo-online-banking.net
+chase-online-banking.net
+citibank-secure-login.com
+
+# Tech support scams
+windows-support-center.com
+microsoft-tech-support.net
+apple-support-center.org
+virus-removal-help.com
+pc-optimizer-pro.com
+system-cleaner-pro.net
+
+# Cryptocurrency scams
+bitcoin-miner-pro.com
+free-ethereum-generator.net
+crypto-investment-opportunity.com
+blockchain-wallet-security.org
+free-crypto-mining.com
+
+# Social media phishing
+instagram-login-security.com
+twitter-verification.net
+whatsapp-account-confirm.com
+tiktok-verification.org
+telegram-security.com

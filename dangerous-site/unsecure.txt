@@ -1,0 +1,36 @@
+# Sites using unsecured HTTP connections
+# Last updated: 2024-01-15
+# These sites transmit data without encryption
+
+# Legacy sites still on HTTP
+example.com
+httpforever.com
+insecure-website.org
+no-ssl-here.net
+legacy-http-site.com
+
+# Local development/testing
+localhost
+127.0.0.1
+local.test
+dev-server.local
+
+# Internal network sites
+router.local
+192.168.1.1
+10.0.0.1
+localnetwork.site
+
+# Old websites without SSL
+classic-website.com
+old-internet-site.net
+retro-web-page.org
+nostalgic-website.com
+
+# Educational/Testing sites
+httpbin.org
+test-http-site.com
+no-ssl-available.net
+
+# Note: This list should be dynamic since many sites now support HTTPS
+# Consider checking in real-time rather than maintaining a static list

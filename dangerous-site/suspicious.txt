@@ -1,0 +1,55 @@
+# Suspicious sites - Potentially risky but not confirmed dangerous
+# Last updated: 2024-01-15
+
+# Sites with excessive subdomains
+free.download.software.2024.com
+secure.login.account.verify.net
+update.windows.security.patch.org
+bank.account.security.confirm.com
+
+# IP address domains (often suspicious)
+192.168.1.100
+10.0.0.55
+172.16.254.1
+203.0.113.45
+198.51.100.23
+
+# Typosquatting domains (common misspellings)
+gogle.com
+facebok.com
+youtbe.com
+amaz0n.com
+micr0soft.com
+app1e.com
+paypa1.com
+tw1tter.com
+whatsap.com
+netfl1x.com
+
+# Newly registered domains (less than 30 days old)
+new-online-banking.com
+crypto-invest-2024.net
+free-bitcoin-miner.org
+windows-11-update.com
+
+# Sites with suspicious patterns
+login-verify-account.com
+security-confirmation.net
+password-reset-now.org
+account-recovery-help.com
+bank-secure-portal.net
+payment-verification.org
+
+# Free hosting/services (often abused)
+blogspot.com (specific malicious subdomains)
+wordpress.com (specific malicious subdomains)
+weebly.com (specific malicious subdomains)
+000webhostapp.com
+github.io (malicious repositories)
+herokuapp.com
+
+# File sharing with suspicious content
+mega.nz (specific malicious files)
+mediafire.com (specific malicious files)
+dropbox.com (specific malicious links)
+drive.google.com (specific malicious files)
