@@ -1,0 +1,60 @@
+"google.com",
+"gstatic.com",
+"googleapis.com",
+"googleusercontent.com",
+"recaptcha.net",
+"recaptcha.google.com",
+"www.google.com",
+"www.gstatic.com",
+"ggpht.com",
+
+// reCAPTCHA specific domains
+"recaptcha.net",
+"www.recaptcha.net",
+"api.recaptcha.net",
+"client-api.recaptcha.net",
+"enterprise.recaptcha.net",
+"web-api.recaptcha.net",
+
+// reCAPTCHA API endpoints
+"www.google.com/recaptcha/",
+"recaptcha.net/recaptcha/",
+"google.com/recaptcha/",
+
+// Google Play and content CDNs
+"play.google.com", "play-lh.googleusercontent.com",
+"lh3.googleusercontent.com", "lh4.googleusercontent.com",
+"lh5.googleusercontent.com", "lh6.googleusercontent.com",
+
+// AMP Project domains (essential for AMP pages)
+"cdn.ampproject.org",
+"ampproject.org",
+"amp.cloudflare.com",
+
+// Common AMP cache domains
+"google.com/amp/",
+"bing.com/amp/",
+
+// AMP component domains
+"ampbyexample.com",
+"amp.dev",
+
+// Fonts
+"fonts.googleapis.com", "fonts.gstatic.com",
+
+// YouTube
+"youtube.com", "youtu.be", "ytimg.com", "googlevideo.com",
+
+// Common CDNs
+"cdnjs.cloudflare.com", "jsdelivr.net", "unpkg.com", "bootstrapcdn.com",
+
+// Social media content
+"fbcdn.net", "cdninstagram.com", "twimg.com",
+
+// Image-specific domains
+"imgur.com", "images.unsplash.com", "staticflickr.com",
+"media.dev.to", "githubusercontent.com", "gitlab-static.net",
+
+// Standard domains
+"w3.org", "schema.org", "wikipedia.org", "wikimedia.org",
+"startpage.com", "ecosia.org", "duckduckgo.com", "yahoo.com"
