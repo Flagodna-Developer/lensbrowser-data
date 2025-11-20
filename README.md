@@ -1,11 +1,12 @@
 # 🔍 Lens Browser
 
 <div align="center">
-
-![Lens Browser](https://img.shields.io/badge/Version-1.0.0-blue)
+ 
+[![Version](https://img.shields.io/github/v/release/Flagodna-Developer/lensbrowser-data)](https://github.com/Flagodna-Developer/lensbrowser-data/releases/latest)
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+[![License](https://img.shields.io/github/license/Flagodna-Developer/lensbrowser-data)](https://github.com/Flagodna-Developer/lensbrowser-data/blob/main/LICENSE) 
 ![Build](https://img.shields.io/badge/Build-Passing-success)
+<a href="https://www.producthunt.com/products/lens-browser-private-adblock?utm_source=badge-follow&utm_medium=badge&utm_source=badge-lens&#0045;browser&#0045;private&#0045;adblock" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=1128975&theme=light&size=small" alt="Lens&#0032;Browser&#0032;&#0045;&#0032;Private&#0032;&#0038;&#0032;AdBlock - Browse&#0032;privately&#0046;&#0032;Zero&#0032;tracking&#0046;&#0032;Zero&#0032;compromise&#0046; | Product Hunt" style="width: 86px; height: 32px;" width="86" height="32" /></a>
 
 **A privacy-first, minimal Android browser built for speed and security**
 
