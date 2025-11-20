@@ -62,9 +62,9 @@ Lens Browser is a lightweight, privacy-focused web browser for Android that puts
 
 <div align="center">
 
-| Home Screen                   | Browse                            | Settings                              |
-| ----------------------------- | --------------------------------- | ------------------------------------- |
-| ![Home](screenshots/home.png) | ![Browse](screenshots/browse.png) | ![Settings](screenshots/settings.png) |
+| Home Screen                        |
+| ---------------------------------- |
+| ![Home](icon/screenshots/home.jpg) |
 
 </div>
 
