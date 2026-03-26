@@ -96,7 +96,7 @@ Download the latest APK from the [Play Store](https://play.google.com/store/apps
 
 ## 🎯 Roadmap
 
-### Current Version (v1.0.0)
+### (v1.0.0)
 
 - ✅ Ad blocking
 - ✅ Anti-fingerprinting
@@ -105,28 +105,15 @@ Download the latest APK from the [Play Store](https://play.google.com/store/apps
 - ✅ Download manager
 - ✅ Image loading toggle
 
-### Future Updates
+### v1.0.2 (Optimization)
 
-#### v1.1.0
+- ✅ Advanced Ad blocking refinements
+- ✅ Enhanced Anti-fingerprinting logic
 
-- [ ] Dark mode improvements
-- [ ] Custom search engine support
-- [ ] HTTPS-only mode
-- [ ] Cookie management
+### v1.0.3 (Current - Polish)
 
-#### v1.2.0
-
-- [ ] Tab management (optional)
-- [ ] Bookmark support (optional)
-- [ ] Import/Export settings
-- [ ] Multiple language support
-
-#### v2.0.0
-
-- [ ] Cross-device sync (optional)
-- [ ] Advanced privacy dashboard
-- [ ] Custom ad block lists
-- [ ] VPN integration
+- ✅ Native long-press image menu (Multi-language)
+- ✅ Correct File Extension handling for downloads
 
 ---
 
