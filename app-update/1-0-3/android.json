@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.0.4",
-  "releaseDate": "2025-12-23",
-  "releaseNotes": "Management: Bookmarks, Whitelist, Blocked Domain, and more!",
+  "releaseDate": "2026-04-30",
+  "releaseNotes": "Downloaded files no longer saved with incorrect .bin extension.",
   "forceUpdate": true,
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.flagodna.lensbrowser"
 }
