@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.4",
+  "latestVersion": "1.0.6",
   "releaseDate": "2025-12-30",
   "releaseNotes": "Performance improvements via hardware acceleration.",
   "forceUpdate": true,

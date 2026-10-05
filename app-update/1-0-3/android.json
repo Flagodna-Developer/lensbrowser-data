@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.4",
+  "latestVersion": "1.0.6",
   "releaseDate": "2026-04-30",
   "releaseNotes": "Downloaded files no longer saved with incorrect .bin extension.",
   "forceUpdate": true,

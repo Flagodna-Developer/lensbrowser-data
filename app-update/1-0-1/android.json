@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.41",
+  "latestVersion": "1.0.6",
   "releaseDate": "2025-11-16",
   "releaseNotes": "Initial release with basic browser features and ad/tracker blocking.",
   "forceUpdate": true,
